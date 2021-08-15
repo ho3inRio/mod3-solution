@@ -30,3 +30,8 @@ h1 {
 .nav-item {
     border-bottom: 2px solid black;
 }
+
+.nav-item a {
+    font-weight: bold !important;
+    color: black !important;
+}
